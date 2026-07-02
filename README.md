@@ -1,2 +1,1 @@
-# ML-programs
-This repo has covered main topics of ML concepts with scripts and notebook. This explores all the machine learning concepts, models, algorithms and techniques 
+This repository, is named "Machine Learning Intro" serves as a learning ground for various machine learning concepts and techniques. The repository contains a collection of Python scripts and Jupyter notebooks. Each dedicated to exploring and implementing different machine learning algorithms, models, and methodologies.
